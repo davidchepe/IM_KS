@@ -1,0 +1,1 @@
+Aqui ibas a hacer el cambio de lo del bearing, no?
