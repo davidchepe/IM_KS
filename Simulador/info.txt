@@ -4,4 +4,7 @@ Contenido de la carpeta:
 Simulacion.ipynb:m Notebook que realiza la simulación utilizando modelos entrenados previamente
 info.txt: Este fichero
 res_sim.xlsx: Output con el resultado de las simulaciones
+res_sim_2vuelta.xlsx: Output con el resultado de las simulaciones, en la segunda vuelta
 res_sim:_ori.xlsx: Output con el resultado de las simulaciones y el dataset de entrada a la simulacion (cuando el input es un GPX de pulsera, se pueden realizar comparaciones REAL vs SIMULADO)
+
+

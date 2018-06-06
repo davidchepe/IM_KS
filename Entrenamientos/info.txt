@@ -1,5 +1,4 @@
 Contenido de la carpeta:
--From Strava: Fichero procedente de la web Strava
 -input_files: Fichero GPX obtenidos mediante una pulsera deportiva que nos aporta gran cantidad de información, nos sirven para entrenar y simular
 -input_files_sim: Fichero GPX "standar" descargados por ejemplo de wikiloc.com, que nos sirven unicamente para simular al carecer de la información necesaria para poder entrenar modelos
 -trash: fichero utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
