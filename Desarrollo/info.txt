@@ -1,0 +1,7 @@
+Contenido de la carpeta:
+-Recorridos:
+-Soporte: Documento de apoyo para revisar los parquetes instalados
+-Weather: Notebooks, librerías y ficheros empleados en el diseño y desarrollo de parte encargada de recuperar la información climatológica de la web https://wunderground.com
+
+info.txt: Este fichero
+sim.xlsx: Pruebas manuales para demostrar/entender como se puede comportar la simulación

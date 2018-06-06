@@ -1,0 +1,15 @@
+Contenido de la carpeta:
+-From Strava: Fichero procedente de la web Strava
+-input_files: Fichero GPX obtenidos mediante una pulsera deportiva que nos aporta gran cantidad de información, nos sirven para entrenar y simular
+-input_files_sim: Fichero GPX "standar" descargados por ejemplo de wikiloc.com, que nos sirven unicamente para simular al carecer de la información necesaria para poder entrenar modelos
+-trash: fichero utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
+
+Analisis Track (Machine Learning) N_files.ipynb: Notebook que lee, procesa, enriquece y genera un fichero de salida para los ficheros de "input_files"
+Analisis Track (Machine Learning) N_files-Simulacion.ipynb: Notebook que lee, procesa, enriquece y genera un fichero de salida para los ficheros de "input_files_sim"
+info.txt: Este fichero
+Procesado.xlsx: Fichero de salida con la información enriquecida por puntos de los ficheros "input_files"
+Procesado_simulacion.xlsx: Fichero de salida con la información enriquecida por puntos de los ficheros "input_files_sim"
+Procesado_Tramos.xlsx: Fichero de salida con la información enriquecida por tramos calculados de los ficheros "input_files"
+Procesado_Tramos_simulacion.xlsx: Fichero de salida con la información enriquecida por tramos calculados de los ficheros "input_files_sim"
+README.txt: Notas y aclaraciones del proceso de desarrollo
+Weather_History.ipynb: Notebook diseñado para poder recuperar la información climatológica mediante una función

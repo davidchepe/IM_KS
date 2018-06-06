@@ -1,0 +1,7 @@
+Contenido de la carpeta:
+-trash: fichero utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
+
+TF.ipynb: Notebook que entrena la red neuronal de Tensorflow para generar los modelos necesarios para la simulación
+info.txt: Este fichero
+Scaler.model: Modelo generado por el RobustScaler necesario para escalar los valores de entradas en la simulación
+TF_Tramos_2.model: Modelo Tensorflow necesario para realizar la simulación

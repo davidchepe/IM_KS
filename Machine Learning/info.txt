@@ -1,0 +1,6 @@
+Contenido de la carpeta:
+-trash: fichero utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
+
+RandomForestRegressor (CdA y Cr, P en funcion V).ipynb:
+Warm-Start simulación.ipynb:
+info.txt: Este fichero

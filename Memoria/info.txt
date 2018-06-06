@@ -1,0 +1,6 @@
+Contenido de la carpeta:
+
+Memoria.ipynb: Documente explicativo del Proyecto realizado
+Resultado Simulacion.twb: Resultado en Tableau de las simulaciones
+Resultado Simulacion2.twb: Resultado en Tableau de las simulaciones
+info.txt: Este fichero
