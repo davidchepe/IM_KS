@@ -1,6 +1,28 @@
-Contenido de la carpeta:
+﻿Contenido de la carpeta:
 
 Memoria.ipynb: Documente explicativo del Proyecto realizado
 Resultado Simulacion_GPX_Competicion_Personal.twb: Resultado en Tableau de una simulaciones, en la que sólo se muestran datos
 Resultado Simulacion_GPX_Standard.twb: Resultado en Tableau de las simulaciones comparando contra la prueba original
 info.txt: Este fichero
+
+Requisitos: 
+Entornos:
+
+    Python 3.6
+    Anaconda 5.2
+
+Lista de paquetes y orden necesarios (pip install):
+
+    msgpack
+    geopy
+    ipynb
+    python-metar
+    tensorflow
+    keras
+    plotly
+
+Otro Software
+
+    Tableau 10.5 o superior
+   
+Conexión a internet para ejecutar la parte de Análisis Track puesto que se conecta para recuperar la información climática
