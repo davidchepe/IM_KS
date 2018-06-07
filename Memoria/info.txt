@@ -1,6 +1,6 @@
 Contenido de la carpeta:
 
 Memoria.ipynb: Documente explicativo del Proyecto realizado
-Resultado Simulacion.twb: Resultado en Tableau de las simulaciones
-Resultado Simulacion2.twb: Resultado en Tableau de las simulaciones
+Resultado Simulacion_GPX_Competicion_Personal.twb: Resultado en Tableau de una simulaciones, en la que sólo se muestran datos
+Resultado Simulacion_GPX_Standard.twb: Resultado en Tableau de las simulaciones comparando contra la prueba original
 info.txt: Este fichero
