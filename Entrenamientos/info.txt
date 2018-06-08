@@ -1,7 +1,11 @@
-Contenido de la carpeta:
+﻿Contenido de la carpeta:
 -input_files: Fichero GPX obtenidos mediante una pulsera deportiva que nos aporta gran cantidad de información, nos sirven para entrenar y simular
 -input_files_sim: Fichero GPX "standar" descargados por ejemplo de wikiloc.com, que nos sirven unicamente para simular al carecer de la información necesaria para poder entrenar modelos
 -trash: fichero utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
+
+Interprestacion del nombre de los entrenamientos
+AAAAMMDD_ICAO_ALTURA_PESO(ciclista + bici)_TIPOBICI(R-ruta, C-contrarreloj)_TIPOTRACK(E-entrenamiento, C-competicion)
+20180406_LEVS_195_90_R_E.gpx
 
 Analisis Track (Machine Learning) N_files.ipynb: Notebook que lee, procesa, enriquece y genera un fichero de salida para los ficheros de "input_files"
 Analisis Track (Machine Learning) N_files-Simulacion.ipynb: Notebook que lee, procesa, enriquece y genera un fichero de salida para los ficheros de "input_files_sim"

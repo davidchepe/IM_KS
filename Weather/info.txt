@@ -1,0 +1,1 @@
+Libreria usada para la descarga de las condiciones meteorológicas

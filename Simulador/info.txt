@@ -1,5 +1,5 @@
-Contenido de la carpeta:
--trash: fichero utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
+﻿Contenido de la carpeta:
+-trash: ficheros utilizados durante el proceso de desarrollo, versiones anteriores de código, pruebas, y ficheros de salida obsoletos
 
 Simulacion.ipynb:m Notebook que realiza la simulación utilizando modelos entrenados previamente
 info.txt: Este fichero
