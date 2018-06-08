@@ -23,6 +23,6 @@ Lista de paquetes y orden necesarios (pip install):
 
 Otro Software
 
-    Tableau 10.5 o superior
+    Tableau Reader o Desktop 10.5
    
 Conexión a internet para ejecutar la parte de Análisis Track puesto que se conecta para recuperar la información climática
